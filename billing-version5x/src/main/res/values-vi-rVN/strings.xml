@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="non_consumable">
+        Các mặt hàng không tiêu hao được. Ý tưởng là chúng chỉ có thể được mua một lần. Nó được liên kết vĩnh viễn với tài khoản cửa hàng của người dùng. Ví dụ như mua các cấp độ trò chơi, đường đua và các tính năng ứng dụng bổ sung và có - loại bỏ quảng cáo.
+    </string>
+    <string name="consumable">
+        Các vật phẩm tiêu hao có thể được mua nhiều lần. Nó có thể được sử dụng hết trong vòng đời của ứng dụng. Ví dụ như tiền tệ trong trò chơi và các tính năng bổ sung.
+    </string>
+    <string name="subscription">
+        Subscription là một mô hình kinh doanh theo dạng thuê bao. Trong đó, khách hàng phải chi trả một khoản phí định kỳ sau những khoảng thời gian nhất định. Nhờ vậy, họ sẽ có quyền được truy cập vào một sản phẩm, chức năng hoặc một dịch vụ mang lại lợi ích liên tục.
+    </string>
+</resources>

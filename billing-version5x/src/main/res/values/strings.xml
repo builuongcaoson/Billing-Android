@@ -1,0 +1,11 @@
+<resources>
+    <string name="non_consumable">
+        Non-consumable items. The idea is that they could be purchased only once. It is permanently associated with the user’s store account. Examples are purchasing game levels, race tracks, and extra app features, and yes – ad removal.
+    </string>
+    <string name="consumable">
+        Consumable items can be purchased multiple times. It could be used up during the life of the application. Examples are in-game currency and extras.
+    </string>
+    <string name="subscription">
+        Subscription is a subscription-based business model. In it, customers have to pay a recurring fee after certain periods of time. As a result, they will have access to a product, function or a service of continuous benefit.
+    </string>
+</resources>
